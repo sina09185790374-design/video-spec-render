@@ -1,0 +1,2 @@
+# video-spec-render — nothing to install (Python stdlib only).
+# ffmpeg must be on PATH for rendering.
